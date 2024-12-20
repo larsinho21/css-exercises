@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.odd-numbers{
+    background-color:rgb(255, 182, 193) ;
+    font-family:Verdana, Tahoma, sans-serif;
+}
