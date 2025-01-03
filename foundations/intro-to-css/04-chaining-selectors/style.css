@@ -1,5 +1,8 @@
-/* Add CSS Styling */
-.odd-numbers{
-    background-color:rgb(255, 182, 193) ;
-    font-family:Verdana, Tahoma, sans-serif;
+.avatar.proportioned{
+ height: auto;
+ width: 300px;
+}
+.avatar.distorted{ 
+    width: 200px;
+    height: 400px;
 }
